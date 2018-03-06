@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.8.1
+FROM gcr.io/google_containers/defaultbackend:1.4
