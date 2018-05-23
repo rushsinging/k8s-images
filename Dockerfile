@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-proxy-amd64:v1.10.2
+FROM quay.io/coreos/flannel:v0.9.1-amd64
