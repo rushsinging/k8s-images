@@ -1,1 +1,1 @@
-FROM quay.io/coreos/prometheus-operator:v0.19.0
+FROM rushsinging/prometheus-operator-configmap-reload:v0.0.1
