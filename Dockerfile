@@ -1,1 +1,1 @@
-FROM docker.elastic.co/apm/apm-server:6.3.0
+FROM docker.elastic.co/logstash/logstash:6.3.0
