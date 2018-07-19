@@ -1,1 +1,1 @@
-FROM docker.elastic.co/logstash/logstash-oss:6.3.0
+FROM k8s.gcr.io/mongodb-install:0.6
