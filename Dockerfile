@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/defaultbackend:1.4
+FROM docker.elastic.co/beats/metricbeat:6.4.2 
